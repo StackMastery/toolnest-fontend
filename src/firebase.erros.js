@@ -1,0 +1,17 @@
+export const firebaseErorCodes = {
+  "auth/invalid-email": "Invalid email.",
+  "auth/user-disabled": "User disabled.",
+  "auth/user-not-found": "User not found.",
+  "auth/wrong-password": "Wrong password.",
+  "auth/email-already-in-use": "Email already in use.",
+  "auth/weak-password": "Weak password.",
+  "auth/operation-not-allowed": "Sign-in not allowed.",
+  "auth/network-request-failed": "Network error.",
+  "auth/too-many-requests": "Too many tries.",
+  "auth/popup-closed-by-user": "Popup closed.",
+  "auth/cancelled-popup-request": "Popup request cancelled.",
+  "auth/invalid-verification-code": "Invalid code.",
+  "auth/invalid-verification-id": "Invalid ID.",
+  "auth/missing-verification-code": "Code required.",
+  "auth/missing-verification-id": "ID required.",
+};
